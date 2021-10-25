@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryDatabase", "InMemoryDatabase\InMemoryDatabase.csproj", "{C295C4F9-83CA-40CC-9289-3DDE879034C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnit.Test", "xUnit.Test\xUnit.Test.csproj", "{A4031250-374E-4F18-BAB6-5BCE245C0CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C295C4F9-83CA-40CC-9289-3DDE879034C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C295C4F9-83CA-40CC-9289-3DDE879034C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C295C4F9-83CA-40CC-9289-3DDE879034C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C295C4F9-83CA-40CC-9289-3DDE879034C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4031250-374E-4F18-BAB6-5BCE245C0CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4031250-374E-4F18-BAB6-5BCE245C0CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4031250-374E-4F18-BAB6-5BCE245C0CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4031250-374E-4F18-BAB6-5BCE245C0CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04326E5C-0388-4364-9C41-FBD4C914DD47}
+	EndGlobalSection
+EndGlobal
